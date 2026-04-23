@@ -49,7 +49,6 @@ The Java Collections Framework is a set of classes and interfaces designed to ma
 - No duplicate keys, but values can duplicate.
 - **Common implementations:**
   - **HashMap**: Unordered, uses a hash table to store key-value pairs for fast lookup.
-    For a deeper dive into HashMap, check out [How HashMap Works Internally]({% post_url 2025-01-01-how-hashmap-works-internally %}).
   - **LinkedHashMap**: Maintains insertion order in addition to HashMap features.
   - **TreeMap**: Implements a sorted map using a Red-Black Tree.
 
